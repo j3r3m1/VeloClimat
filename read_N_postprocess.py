@@ -110,10 +110,7 @@ pval_min = 0.1
 ###############################################################################
 # Database config
 jdbc_driver_jar = "/home/decide/.m2/repository/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar"
-host = "51.254.44.19"
-dbname = "geoclimate_db"
-username = "veloclimat"
-password = "veloclimat_admin_2025_bretagne"
+
 
 # Schema and table names in the database
 schema_met = "veloclimat"
