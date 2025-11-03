@@ -1,0 +1,2314 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 3.8.5" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2025-05-27_18-20_Tue</name>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="45.5660763" lon="5.8981939">
+        <ele>340</ele>
+        <time>2025-05-27T16:20:01Z</time>
+        <hdop>35</hdop>
+        <extensions>
+          <speed>0.31</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.566102" lon="5.8982192">
+        <ele>343</ele>
+        <time>2025-05-27T16:20:03Z</time>
+        <hdop>15.5</hdop>
+        <extensions>
+          <speed>0.34</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660915" lon="5.8982143">
+        <ele>336</ele>
+        <time>2025-05-27T16:20:05Z</time>
+        <hdop>12</hdop>
+        <extensions>
+          <speed>0.65</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660805" lon="5.8982112">
+        <ele>337</ele>
+        <time>2025-05-27T16:20:06Z</time>
+        <hdop>13</hdop>
+        <extensions>
+          <speed>1.05</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.566089" lon="5.8982141">
+        <ele>336</ele>
+        <time>2025-05-27T16:20:07Z</time>
+        <hdop>12.5</hdop>
+        <extensions>
+          <speed>0.93</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661313" lon="5.8982122">
+        <ele>337</ele>
+        <time>2025-05-27T16:20:09Z</time>
+        <hdop>10</hdop>
+        <extensions>
+          <speed>0.91</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661433" lon="5.8982251">
+        <ele>337</ele>
+        <time>2025-05-27T16:20:10Z</time>
+        <hdop>9</hdop>
+        <extensions>
+          <speed>1.14</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661667" lon="5.8982704">
+        <ele>337</ele>
+        <time>2025-05-27T16:20:12Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>1.87</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661779" lon="5.8983184">
+        <ele>337</ele>
+        <time>2025-05-27T16:20:14Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>1.79</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661772" lon="5.8983532">
+        <ele>337</ele>
+        <time>2025-05-27T16:20:15Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>2.67</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661439" lon="5.8984521">
+        <ele>336</ele>
+        <time>2025-05-27T16:20:17Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>3.6</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661316" lon="5.8985033">
+        <ele>335</ele>
+        <time>2025-05-27T16:20:18Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>3.33</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661018" lon="5.8985881">
+        <ele>334</ele>
+        <time>2025-05-27T16:20:20Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>3.78</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660347" lon="5.8986344">
+        <ele>332</ele>
+        <time>2025-05-27T16:20:22Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>3.26</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659971" lon="5.8986443">
+        <ele>331</ele>
+        <time>2025-05-27T16:20:23Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>3.02</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659323" lon="5.8986851">
+        <ele>327</ele>
+        <time>2025-05-27T16:20:25Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>3.4</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658939" lon="5.8986908">
+        <ele>325</ele>
+        <time>2025-05-27T16:20:26Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>3.85</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658175" lon="5.8986753">
+        <ele>323</ele>
+        <time>2025-05-27T16:20:28Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>3.66</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5657721" lon="5.898668">
+        <ele>323</ele>
+        <time>2025-05-27T16:20:29Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>3.91</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5657059" lon="5.8986669">
+        <ele>323</ele>
+        <time>2025-05-27T16:20:31Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>3.45</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5656272" lon="5.8986612">
+        <ele>324</ele>
+        <time>2025-05-27T16:20:33Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.04</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.565554" lon="5.8986609">
+        <ele>326</ele>
+        <time>2025-05-27T16:20:35Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>3.63</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5655124" lon="5.8986685">
+        <ele>326</ele>
+        <time>2025-05-27T16:20:36Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>3.86</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5653985" lon="5.8986885">
+        <ele>327</ele>
+        <time>2025-05-27T16:20:38Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>4.81</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5653472" lon="5.8987054">
+        <ele>329</ele>
+        <time>2025-05-27T16:20:39Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.01</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5652548" lon="5.8987101">
+        <ele>330</ele>
+        <time>2025-05-27T16:20:41Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.27</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5652041" lon="5.8987111">
+        <ele>331</ele>
+        <time>2025-05-27T16:20:42Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.12</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5651492" lon="5.8987086">
+        <ele>331</ele>
+        <time>2025-05-27T16:20:43Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.44</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5650935" lon="5.8987107">
+        <ele>331</ele>
+        <time>2025-05-27T16:20:44Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.76</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564987" lon="5.8987195">
+        <ele>331</ele>
+        <time>2025-05-27T16:20:46Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.63</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5649339" lon="5.898722">
+        <ele>331</ele>
+        <time>2025-05-27T16:20:47Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.49</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5648818" lon="5.8987292">
+        <ele>332</ele>
+        <time>2025-05-27T16:20:48Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.53</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5648302" lon="5.8987328">
+        <ele>331</ele>
+        <time>2025-05-27T16:20:49Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.85</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5647306" lon="5.8987203">
+        <ele>330</ele>
+        <time>2025-05-27T16:20:51Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.19</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5646826" lon="5.8987109">
+        <ele>330</ele>
+        <time>2025-05-27T16:20:52Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.95</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5646295" lon="5.8987041">
+        <ele>330</ele>
+        <time>2025-05-27T16:20:53Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.04</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5645844" lon="5.8987023">
+        <ele>330</ele>
+        <time>2025-05-27T16:20:54Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.78</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5644939" lon="5.8987047">
+        <ele>331</ele>
+        <time>2025-05-27T16:20:56Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.81</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5644447" lon="5.8987041">
+        <ele>331</ele>
+        <time>2025-05-27T16:20:57Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.01</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5643942" lon="5.8987056">
+        <ele>332</ele>
+        <time>2025-05-27T16:20:58Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.44</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564346" lon="5.8987038">
+        <ele>332</ele>
+        <time>2025-05-27T16:20:59Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.6</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642516" lon="5.8986726">
+        <ele>332</ele>
+        <time>2025-05-27T16:21:01Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.7</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642112" lon="5.8986395">
+        <ele>331</ele>
+        <time>2025-05-27T16:21:02Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>3.67</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641811" lon="5.8985491">
+        <ele>331</ele>
+        <time>2025-05-27T16:21:04Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>3.88</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641825" lon="5.8984894">
+        <ele>331</ele>
+        <time>2025-05-27T16:21:05Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.52</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641854" lon="5.8984229">
+        <ele>330</ele>
+        <time>2025-05-27T16:21:06Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>4.41</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641815" lon="5.8983598">
+        <ele>330</ele>
+        <time>2025-05-27T16:21:07Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>4.88</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641837" lon="5.8982905">
+        <ele>330</ele>
+        <time>2025-05-27T16:21:08Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.02</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641794" lon="5.898135">
+        <ele>330</ele>
+        <time>2025-05-27T16:21:10Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.52</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641777" lon="5.8980585">
+        <ele>331</ele>
+        <time>2025-05-27T16:21:11Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.98</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641789" lon="5.8979799">
+        <ele>331</ele>
+        <time>2025-05-27T16:21:12Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.81</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564181" lon="5.8979164">
+        <ele>331</ele>
+        <time>2025-05-27T16:21:13Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.78</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641831" lon="5.897861">
+        <ele>330</ele>
+        <time>2025-05-27T16:21:14Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.32</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641908" lon="5.8977394">
+        <ele>329</ele>
+        <time>2025-05-27T16:21:16Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>3.8</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641959" lon="5.8976378">
+        <ele>329</ele>
+        <time>2025-05-27T16:21:18Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.28</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641808" lon="5.8975077">
+        <ele>329</ele>
+        <time>2025-05-27T16:21:20Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.69</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641772" lon="5.8974451">
+        <ele>329</ele>
+        <time>2025-05-27T16:21:21Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.59</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641792" lon="5.8973808">
+        <ele>329</ele>
+        <time>2025-05-27T16:21:22Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.76</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641818" lon="5.8973173">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:23Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.19</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641863" lon="5.8971759">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:25Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.62</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641898" lon="5.8970213">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:27Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.64</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641874" lon="5.8969448">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:28Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.19</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641804" lon="5.8967961">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:30Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>6.05</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564175" lon="5.8967219">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:31Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.99</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564173" lon="5.896651">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:32Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.35</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641603" lon="5.896587">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:33Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.11</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564143" lon="5.8965259">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:34Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>5.65</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5640989" lon="5.8964204">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:36Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.03</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5640916" lon="5.8963272">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:38Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>3.35</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641417" lon="5.8962414">
+        <ele>329</ele>
+        <time>2025-05-27T16:21:40Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>4.27</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641674" lon="5.8961939">
+        <ele>329</ele>
+        <time>2025-05-27T16:21:41Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.57</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642206" lon="5.8960782">
+        <ele>329</ele>
+        <time>2025-05-27T16:21:43Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.67</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642499" lon="5.8960139">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:44Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.21</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642957" lon="5.8958787">
+        <ele>327</ele>
+        <time>2025-05-27T16:21:46Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.64</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5643159" lon="5.8957265">
+        <ele>327</ele>
+        <time>2025-05-27T16:21:48Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.52</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5643325" lon="5.895589">
+        <ele>327</ele>
+        <time>2025-05-27T16:21:50Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.53</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5643354" lon="5.8955134">
+        <ele>327</ele>
+        <time>2025-05-27T16:21:51Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.32</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5643315" lon="5.8954351">
+        <ele>327</ele>
+        <time>2025-05-27T16:21:52Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.44</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564327" lon="5.8953647">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:53Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>4.6</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5643229" lon="5.8952882">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:54Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.28</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5643167" lon="5.8951208">
+        <ele>328</ele>
+        <time>2025-05-27T16:21:56Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>6.22</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642867" lon="5.8949684">
+        <ele>330</ele>
+        <time>2025-05-27T16:21:58Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.48</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642369" lon="5.8948344">
+        <ele>331</ele>
+        <time>2025-05-27T16:22:00Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.72</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641931" lon="5.8946897">
+        <ele>332</ele>
+        <time>2025-05-27T16:22:02Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.88</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641776" lon="5.8946182">
+        <ele>332</ele>
+        <time>2025-05-27T16:22:03Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.83</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641618" lon="5.8945452">
+        <ele>333</ele>
+        <time>2025-05-27T16:22:04Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.58</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641314" lon="5.8944129">
+        <ele>333</ele>
+        <time>2025-05-27T16:22:06Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.28</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641029" lon="5.894282">
+        <ele>333</ele>
+        <time>2025-05-27T16:22:08Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>4.8</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5640831" lon="5.8942295">
+        <ele>334</ele>
+        <time>2025-05-27T16:22:09Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>4.25</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641057" lon="5.8941946">
+        <ele>335</ele>
+        <time>2025-05-27T16:22:11Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>4.29</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641634" lon="5.8941821">
+        <ele>336</ele>
+        <time>2025-05-27T16:22:12Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.97</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642297" lon="5.8941658">
+        <ele>335</ele>
+        <time>2025-05-27T16:22:13Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.46</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642859" lon="5.8941427">
+        <ele>336</ele>
+        <time>2025-05-27T16:22:14Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>6.3</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5644038" lon="5.8940912">
+        <ele>337</ele>
+        <time>2025-05-27T16:22:16Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.61</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564499" lon="5.8940482">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:18Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.16</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5645463" lon="5.8940284">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:19Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>4.98</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5646446" lon="5.8939882">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:21Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.37</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5646954" lon="5.8939723">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:22Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.23</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5647441" lon="5.8939611">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:23Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.32</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5647879" lon="5.8939578">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:24Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>4.58</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5648814" lon="5.8939785">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:26Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.64</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5649894" lon="5.8940399">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:28Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.38</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5650399" lon="5.8940785">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:29Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.97</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5651383" lon="5.8941582">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:31Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.07</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.56524" lon="5.8942317">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:33Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.38</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5652922" lon="5.8942694">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:34Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.87</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5654174" lon="5.8943671">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:36Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.89</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5655477" lon="5.8944419">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:38Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.9</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5656032" lon="5.894483">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:39Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.42</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5657059" lon="5.8945657">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:41Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.6</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5657656" lon="5.8946006">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:42Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.86</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658366" lon="5.8946278">
+        <ele>339</ele>
+        <time>2025-05-27T16:22:43Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>7.51</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659665" lon="5.8946724">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:45Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.51</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660311" lon="5.8946649">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:46Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.8</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661005" lon="5.8946664">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:47Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.65</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.566165" lon="5.8946845">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:48Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>7.1</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5662936" lon="5.8947381">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:50Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>7.35</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.566431" lon="5.8947399">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:52Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.27</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5665618" lon="5.8947387">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:54Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.59</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5666963" lon="5.8947542">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:56Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.04</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5667567" lon="5.8947634">
+        <ele>338</ele>
+        <time>2025-05-27T16:22:57Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.95</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5668886" lon="5.8948093">
+        <ele>337</ele>
+        <time>2025-05-27T16:22:59Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.62</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.567003" lon="5.8948605">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:01Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.06</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5670578" lon="5.8948778">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:02Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>5.84</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5671161" lon="5.8949092">
+        <ele>337</ele>
+        <time>2025-05-27T16:23:03Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>6.24</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5672234" lon="5.8949907">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:05Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.45</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5672794" lon="5.8950233">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:06Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.87</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5673976" lon="5.8950912">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:08Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.77</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5674545" lon="5.895129">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:09Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.35</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5675758" lon="5.8952195">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:11Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.72</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5676998" lon="5.8953105">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:13Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>7.59</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5677627" lon="5.8953615">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:14Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>7.54</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5678844" lon="5.895475">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:16Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>7.2</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5679449" lon="5.8955114">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:17Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>7.16</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.568011" lon="5.8955667">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:18Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>7.31</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5680737" lon="5.8956175">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:19Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.99</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5681611" lon="5.8957346">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:21Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.84</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5681707" lon="5.8958107">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:22Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.13</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5681508" lon="5.8958946">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:23Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.58</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5681196" lon="5.8959792">
+        <ele>336</ele>
+        <time>2025-05-27T16:23:24Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>6.41</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5680459" lon="5.8961346">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:26Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.43</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5680035" lon="5.8962218">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:27Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.64</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5679702" lon="5.8963013">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:28Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.91</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5679464" lon="5.8963684">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:29Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.61</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5679026" lon="5.896521">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:31Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.79</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5678837" lon="5.8966052">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:32Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.74</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5678679" lon="5.8966929">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:33Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.17</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5678347" lon="5.8968661">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:35Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.55</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5678162" lon="5.8969505">
+        <ele>335</ele>
+        <time>2025-05-27T16:23:36Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.58</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5677685" lon="5.897127">
+        <ele>334</ele>
+        <time>2025-05-27T16:23:38Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.91</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5677484" lon="5.8972135">
+        <ele>334</ele>
+        <time>2025-05-27T16:23:39Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.72</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5677002" lon="5.897401">
+        <ele>333</ele>
+        <time>2025-05-27T16:23:41Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.47</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5676698" lon="5.8974879">
+        <ele>333</ele>
+        <time>2025-05-27T16:23:42Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.55</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5676347" lon="5.8975753">
+        <ele>333</ele>
+        <time>2025-05-27T16:23:43Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.25</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5676045" lon="5.8976608">
+        <ele>333</ele>
+        <time>2025-05-27T16:23:44Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>7.56</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5675491" lon="5.8978429">
+        <ele>333</ele>
+        <time>2025-05-27T16:23:46Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.5</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.567532" lon="5.8979446">
+        <ele>333</ele>
+        <time>2025-05-27T16:23:47Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.32</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5675139" lon="5.8980422">
+        <ele>333</ele>
+        <time>2025-05-27T16:23:48Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.39</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5674942" lon="5.8981336">
+        <ele>333</ele>
+        <time>2025-05-27T16:23:49Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.45</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5674711" lon="5.8983241">
+        <ele>332</ele>
+        <time>2025-05-27T16:23:51Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.82</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5674675" lon="5.898422">
+        <ele>332</ele>
+        <time>2025-05-27T16:23:52Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.34</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5674623" lon="5.8985249">
+        <ele>332</ele>
+        <time>2025-05-27T16:23:53Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>7.38</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5674655" lon="5.8987126">
+        <ele>334</ele>
+        <time>2025-05-27T16:23:55Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>7.14</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5674601" lon="5.8988094">
+        <ele>334</ele>
+        <time>2025-05-27T16:23:56Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>7.02</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5674548" lon="5.8988991">
+        <ele>334</ele>
+        <time>2025-05-27T16:23:57Z</time>
+        <hdop>3</hdop>
+        <extensions>
+          <speed>6.79</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5674502" lon="5.8989846">
+        <ele>334</ele>
+        <time>2025-05-27T16:23:58Z</time>
+        <hdop>3</hdop>
+        <extensions>
+          <speed>6.45</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.567438" lon="5.8991439">
+        <ele>333</ele>
+        <time>2025-05-27T16:24:00Z</time>
+        <hdop>2.5</hdop>
+        <extensions>
+          <speed>5.76</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5674237" lon="5.899265">
+        <ele>333</ele>
+        <time>2025-05-27T16:24:02Z</time>
+        <hdop>2.5</hdop>
+        <extensions>
+          <speed>4.23</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5673997" lon="5.8993086">
+        <ele>333</ele>
+        <time>2025-05-27T16:24:03Z</time>
+        <hdop>3</hdop>
+        <extensions>
+          <speed>4.06</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5673235" lon="5.8993334">
+        <ele>332</ele>
+        <time>2025-05-27T16:24:05Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>4.92</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5672761" lon="5.8993299">
+        <ele>332</ele>
+        <time>2025-05-27T16:24:06Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>5.31</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5671751" lon="5.8993172">
+        <ele>333</ele>
+        <time>2025-05-27T16:24:08Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>5.73</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5670682" lon="5.8993007">
+        <ele>332</ele>
+        <time>2025-05-27T16:24:10Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.01</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.566956" lon="5.8993151">
+        <ele>332</ele>
+        <time>2025-05-27T16:24:12Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>6.27</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5668424" lon="5.8993578">
+        <ele>332</ele>
+        <time>2025-05-27T16:24:14Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>6.5</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5667366" lon="5.89943">
+        <ele>332</ele>
+        <time>2025-05-27T16:24:16Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>6.58</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5666418" lon="5.8995316">
+        <ele>331</ele>
+        <time>2025-05-27T16:24:18Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.23</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5665519" lon="5.8996429">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:20Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.52</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5665063" lon="5.8996997">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:21Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>6.75</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5664577" lon="5.8997547">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:22Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>6.57</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5664125" lon="5.8998071">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:23Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>6.42</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5663687" lon="5.8998611">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:24Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.45</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5662856" lon="5.8999853">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:26Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.76</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5662455" lon="5.9000537">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:27Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.62</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5662012" lon="5.900118">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:28Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.75</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661111" lon="5.9002433">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:30Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>6.6</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660206" lon="5.9003636">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:32Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>6.21</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659736" lon="5.9004205">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:33Z</time>
+        <hdop>3.5</hdop>
+        <extensions>
+          <speed>6.87</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658807" lon="5.9005317">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:35Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.57</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658324" lon="5.9005886">
+        <ele>331</ele>
+        <time>2025-05-27T16:24:36Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.58</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5657824" lon="5.9006437">
+        <ele>331</ele>
+        <time>2025-05-27T16:24:37Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>7</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5657339" lon="5.9007038">
+        <ele>331</ele>
+        <time>2025-05-27T16:24:38Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.94</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.56564" lon="5.9008085">
+        <ele>331</ele>
+        <time>2025-05-27T16:24:40Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.38</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5655884" lon="5.9008505">
+        <ele>331</ele>
+        <time>2025-05-27T16:24:41Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.46</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5655349" lon="5.9008952">
+        <ele>331</ele>
+        <time>2025-05-27T16:24:42Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>6.97</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5654847" lon="5.9009442">
+        <ele>331</ele>
+        <time>2025-05-27T16:24:43Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.3</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5653611" lon="5.9010041">
+        <ele>331</ele>
+        <time>2025-05-27T16:24:45Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.35</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5652969" lon="5.9010295">
+        <ele>331</ele>
+        <time>2025-05-27T16:24:46Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>7.06</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5652359" lon="5.901049">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:47Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.94</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5651761" lon="5.9010628">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:48Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>7.01</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5651153" lon="5.901063">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:49Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>7.25</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5649911" lon="5.9010483">
+        <ele>330</ele>
+        <time>2025-05-27T16:24:51Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>6.85</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5649276" lon="5.9010323">
+        <ele>329</ele>
+        <time>2025-05-27T16:24:52Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.84</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5648663" lon="5.9010188">
+        <ele>329</ele>
+        <time>2025-05-27T16:24:53Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.74</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5648102" lon="5.9010058">
+        <ele>328</ele>
+        <time>2025-05-27T16:24:54Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>6.51</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5646936" lon="5.9009587">
+        <ele>327</ele>
+        <time>2025-05-27T16:24:56Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.97</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5646439" lon="5.9009306">
+        <ele>327</ele>
+        <time>2025-05-27T16:24:57Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>6</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564593" lon="5.9009034">
+        <ele>326</ele>
+        <time>2025-05-27T16:24:58Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.75</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564549" lon="5.9008782">
+        <ele>326</ele>
+        <time>2025-05-27T16:24:59Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>4.37</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5644549" lon="5.9008108">
+        <ele>326</ele>
+        <time>2025-05-27T16:25:01Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>5.54</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5644066" lon="5.9007754">
+        <ele>325</ele>
+        <time>2025-05-27T16:25:02Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>5.38</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5643628" lon="5.9007556">
+        <ele>325</ele>
+        <time>2025-05-27T16:25:03Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.68</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5643175" lon="5.9007518">
+        <ele>325</ele>
+        <time>2025-05-27T16:25:04Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.4</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642355" lon="5.900699">
+        <ele>324</ele>
+        <time>2025-05-27T16:25:06Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>5.27</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641782" lon="5.9006666">
+        <ele>323</ele>
+        <time>2025-05-27T16:25:07Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>6.07</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564127" lon="5.9006366">
+        <ele>323</ele>
+        <time>2025-05-27T16:25:08Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>5.99</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5640872" lon="5.9006021">
+        <ele>323</ele>
+        <time>2025-05-27T16:25:09Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.94</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5640489" lon="5.9004728">
+        <ele>322</ele>
+        <time>2025-05-27T16:25:11Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>5.43</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5640439" lon="5.9003917">
+        <ele>322</ele>
+        <time>2025-05-27T16:25:12Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>5.56</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564046" lon="5.9003094">
+        <ele>321</ele>
+        <time>2025-05-27T16:25:13Z</time>
+        <hdop>7</hdop>
+        <extensions>
+          <speed>4.69</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564053" lon="5.9002406">
+        <ele>320</ele>
+        <time>2025-05-27T16:25:14Z</time>
+        <hdop>7</hdop>
+        <extensions>
+          <speed>5.51</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641036" lon="5.9001021">
+        <ele>320</ele>
+        <time>2025-05-27T16:25:16Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>5.62</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641186" lon="5.9000485">
+        <ele>319</ele>
+        <time>2025-05-27T16:25:17Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>5.03</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641285" lon="5.8999843">
+        <ele>319</ele>
+        <time>2025-05-27T16:25:18Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>4.88</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641284" lon="5.8998253">
+        <ele>320</ele>
+        <time>2025-05-27T16:25:20Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>5.6</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641209" lon="5.8997357">
+        <ele>320</ele>
+        <time>2025-05-27T16:25:21Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>5.98</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641069" lon="5.8995805">
+        <ele>320</ele>
+        <time>2025-05-27T16:25:23Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.92</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641077" lon="5.899504">
+        <ele>320</ele>
+        <time>2025-05-27T16:25:24Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>5.38</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564117" lon="5.8993725">
+        <ele>319</ele>
+        <time>2025-05-27T16:25:26Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.67</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641159" lon="5.8993109">
+        <ele>319</ele>
+        <time>2025-05-27T16:25:27Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>4.36</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564114" lon="5.8992496">
+        <ele>319</ele>
+        <time>2025-05-27T16:25:28Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>3.75</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641186" lon="5.8991425">
+        <ele>318</ele>
+        <time>2025-05-27T16:25:30Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.24</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641195" lon="5.899079">
+        <ele>319</ele>
+        <time>2025-05-27T16:25:31Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>3.76</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.564133" lon="5.8989843">
+        <ele>320</ele>
+        <time>2025-05-27T16:25:33Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>3.52</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641388" lon="5.8988613">
+        <ele>322</ele>
+        <time>2025-05-27T16:25:35Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.44</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641602" lon="5.898754">
+        <ele>322</ele>
+        <time>2025-05-27T16:25:37Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>3.21</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5641937" lon="5.8986919">
+        <ele>322</ele>
+        <time>2025-05-27T16:25:39Z</time>
+        <hdop>7</hdop>
+        <extensions>
+          <speed>3.34</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5642714" lon="5.8986703">
+        <ele>322</ele>
+        <time>2025-05-27T16:25:41Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>4.72</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5643333" lon="5.8986707">
+        <ele>322</ele>
+        <time>2025-05-27T16:25:42Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>4.76</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5644405" lon="5.8986639">
+        <ele>322</ele>
+        <time>2025-05-27T16:25:44Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.22</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5645543" lon="5.8986501">
+        <ele>323</ele>
+        <time>2025-05-27T16:25:46Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.8</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5646103" lon="5.8986541">
+        <ele>323</ele>
+        <time>2025-05-27T16:25:47Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.64</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5646621" lon="5.8986605">
+        <ele>323</ele>
+        <time>2025-05-27T16:25:48Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.02</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5647272" lon="5.8986616">
+        <ele>324</ele>
+        <time>2025-05-27T16:25:49Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.37</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5648572" lon="5.8986539">
+        <ele>324</ele>
+        <time>2025-05-27T16:25:51Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.56</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5649932" lon="5.8986396">
+        <ele>324</ele>
+        <time>2025-05-27T16:25:53Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.66</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5650538" lon="5.8986375">
+        <ele>324</ele>
+        <time>2025-05-27T16:25:54Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.85</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5651773" lon="5.8986257">
+        <ele>324</ele>
+        <time>2025-05-27T16:25:56Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.73</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5652944" lon="5.8986342">
+        <ele>325</ele>
+        <time>2025-05-27T16:25:58Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.67</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5653457" lon="5.8986345">
+        <ele>325</ele>
+        <time>2025-05-27T16:25:59Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.45</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5654468" lon="5.8986491">
+        <ele>325</ele>
+        <time>2025-05-27T16:26:01Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>6.02</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5655662" lon="5.898625">
+        <ele>326</ele>
+        <time>2025-05-27T16:26:03Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.14</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5656206" lon="5.8986135">
+        <ele>326</ele>
+        <time>2025-05-27T16:26:04Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.65</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5657329" lon="5.8986165">
+        <ele>327</ele>
+        <time>2025-05-27T16:26:06Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.68</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5657868" lon="5.8986198">
+        <ele>327</ele>
+        <time>2025-05-27T16:26:07Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>6.02</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658409" lon="5.8986151">
+        <ele>327</ele>
+        <time>2025-05-27T16:26:08Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.97</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658938" lon="5.8985976">
+        <ele>327</ele>
+        <time>2025-05-27T16:26:09Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.73</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659979" lon="5.8985763">
+        <ele>327</ele>
+        <time>2025-05-27T16:26:11Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.35</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660485" lon="5.8985621">
+        <ele>327</ele>
+        <time>2025-05-27T16:26:12Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>4.76</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660859" lon="5.8985227">
+        <ele>327</ele>
+        <time>2025-05-27T16:26:13Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>5.58</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661377" lon="5.898419">
+        <ele>327</ele>
+        <time>2025-05-27T16:26:15Z</time>
+        <hdop>5.5</hdop>
+        <extensions>
+          <speed>5.47</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661459" lon="5.8983646">
+        <ele>327</ele>
+        <time>2025-05-27T16:26:16Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>5.15</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661491" lon="5.8983098">
+        <ele>327</ele>
+        <time>2025-05-27T16:26:17Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>4.5</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.566154" lon="5.8982665">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:18Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>3.96</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661354" lon="5.8981982">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:20Z</time>
+        <hdop>4</hdop>
+        <extensions>
+          <speed>2.39</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5661047" lon="5.8981937">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:22Z</time>
+        <hdop>4.5</hdop>
+        <extensions>
+          <speed>1.35</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660922" lon="5.8982065">
+        <ele>329</ele>
+        <time>2025-05-27T16:26:23Z</time>
+        <hdop>5</hdop>
+        <extensions>
+          <speed>2.06</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660774" lon="5.8982265">
+        <ele>329</ele>
+        <time>2025-05-27T16:26:24Z</time>
+        <hdop>6</hdop>
+        <extensions>
+          <speed>2.15</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660516" lon="5.8982549">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:26Z</time>
+        <hdop>7</hdop>
+        <extensions>
+          <speed>1.79</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660527" lon="5.8982544">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:27Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>0.35</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660547" lon="5.8982514">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:28Z</time>
+        <hdop>7</hdop>
+        <extensions>
+          <speed>0.13</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660508" lon="5.8982285">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:30Z</time>
+        <hdop>7</hdop>
+        <extensions>
+          <speed>0.9</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660606" lon="5.8982183">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:32Z</time>
+        <hdop>6.5</hdop>
+        <extensions>
+          <speed>0.25</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660586" lon="5.8982127">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:33Z</time>
+        <hdop>8</hdop>
+        <extensions>
+          <speed>1.01</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.566031" lon="5.8982203">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:35Z</time>
+        <hdop>9</hdop>
+        <extensions>
+          <speed>1.9</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5660099" lon="5.8982247">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:36Z</time>
+        <hdop>9</hdop>
+        <extensions>
+          <speed>2.44</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659922" lon="5.8982217">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:37Z</time>
+        <hdop>9</hdop>
+        <extensions>
+          <speed>2.32</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659767" lon="5.8982058">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:38Z</time>
+        <hdop>9.5</hdop>
+        <extensions>
+          <speed>2.27</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659643" lon="5.8981951">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:39Z</time>
+        <hdop>9.5</hdop>
+        <extensions>
+          <speed>1.64</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659366" lon="5.8982102">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:41Z</time>
+        <hdop>10.5</hdop>
+        <extensions>
+          <speed>1.93</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659324" lon="5.8982122">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:42Z</time>
+        <hdop>10.5</hdop>
+        <extensions>
+          <speed>0.7</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659228" lon="5.89822">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:43Z</time>
+        <hdop>10.5</hdop>
+        <extensions>
+          <speed>0.88</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5659097" lon="5.8982399">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:44Z</time>
+        <hdop>10.5</hdop>
+        <extensions>
+          <speed>1.76</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658865" lon="5.8982535">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:46Z</time>
+        <hdop>10.5</hdop>
+        <extensions>
+          <speed>0.74</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658734" lon="5.8982698">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:47Z</time>
+        <hdop>10</hdop>
+        <extensions>
+          <speed>0.97</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658679" lon="5.8982998">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:49Z</time>
+        <hdop>11.5</hdop>
+        <extensions>
+          <speed>1.01</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.5658741" lon="5.8983068">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:50Z</time>
+        <hdop>11.5</hdop>
+        <extensions>
+          <speed>0.47</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="45.565883" lon="5.8983043">
+        <ele>328</ele>
+        <time>2025-05-27T16:26:51Z</time>
+        <hdop>11.5</hdop>
+        <extensions>
+          <speed>0.5</speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
