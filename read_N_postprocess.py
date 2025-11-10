@@ -110,6 +110,13 @@ pval_min = 0.1
 ###############################################################################
 # Database config
 jdbc_driver_jar = "/home/decide/.m2/repository/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar"
+db_infos = pd.read_csv("/home/decide/Code/DB_informations.csv",
+                       header = 0, 
+                       index_col = 0)
+host = db_infos.loc["veloclimat", "host"]
+dbname = db_infos.loc["veloclimat", "dbname"]
+username = db_infos.loc["veloclimat", "username"]
+password = db_infos.loc["veloclimat", "password"]
 
 
 # Schema and table names in the database
